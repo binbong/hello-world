@@ -1,2 +1,4 @@
 # hello-world
-my first 
+
+<?php
+echo "hello git ";
